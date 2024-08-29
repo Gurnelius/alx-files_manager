@@ -40,5 +40,6 @@
     "eslint-plugin-jest": "^22.17.0",
     "request": "^2.88.0",
     "sinon": "^7.5.0"
-  }
+  },
+    "type": "module"
 }
